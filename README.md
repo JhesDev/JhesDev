@@ -1,14 +1,10 @@
-# 👋 Welcome, I'm **[YOUR_GITHUB_USERNAME]**
+# 👋 Welcome, I'm **Jhon Max Espiritu Santiago**
 
 ### Full Stack Software Engineer
 
 Building modern, scalable, and user-focused digital products across web, mobile, backend, and AI-powered workflows.
 
 ---
-
-## 💼 Professional Introduction
-
-I am a Full Stack Software Engineer focused on delivering high-quality software with clean architecture, strong performance, and great user experience. I work across frontend, backend, mobile, cloud, and automation ecosystems to turn ideas into production-ready solutions.
 
 ## 🧠 About Me
 
@@ -29,22 +25,6 @@ I am a Full Stack Software Engineer focused on delivering high-quality software 
 | **AI & Automation** | ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
 | **Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-## 🧾 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🌟 Featured Projects
-
-| Project | Description | Stack | Link |
-|---|---|---|---|
-| **Project One** | Short description of your flagship project and impact. | React, Node.js, PostgreSQL | [View Project](https://github.com/YOUR_GITHUB_USERNAME/project-one) |
-| **Project Two** | Short description of a backend/API or enterprise system project. | Laravel, PHP, MySQL | [View Project](https://github.com/YOUR_GITHUB_USERNAME/project-two) |
-| **Project Three** | Short description of a mobile or automation solution. | React Native, Expo, n8n | [View Project](https://github.com/YOUR_GITHUB_USERNAME/project-three) |
-
 ## 📚 Current Learning
 
 - Advanced system design for scalable architectures  
@@ -61,5 +41,5 @@ I am a Full Stack Software Engineer focused on delivering high-quality software 
 
 <p align="center">
   Crafted with precision, clean code, and continuous learning.<br/>
-  <strong>© 2026 [YOUR_GITHUB_USERNAME] • Full Stack Software Engineer</strong>
+  <strong>© 2026 Jhon Max Espiritu Santiago • Full Stack Software Engineer</strong>
 </p>
