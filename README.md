@@ -33,9 +33,9 @@ Building modern, scalable, and user-focused digital products across web, mobile,
 
 ## 🤝 Contact
 
-- 🔗 LinkedIn: [YOUR_LINKEDIN_URL](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL)
-- ✉️ Email: [YOUR_EMAIL](mailto:YOUR_EMAIL)
+- 🔗 LinkedIn: [www.linkedin.com/in/jhon-max-espiritu-santiago-01441728a](https://www.linkedin.com/in/jhon-max-espiritu-santiago-01441728a)
+<!-- - 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://YOUR_PORTFOLIO_URL) -->
+- ✉️ Email: [jhon.mes26@gmail.com](mailto:jhon.mes26@gmail.com)
 
 ---
 
